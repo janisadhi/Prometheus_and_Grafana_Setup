@@ -186,4 +186,5 @@ You can now create dashboards in Grafana based on the data collected from Promet
 - Make sure your firewall allows traffic on ports `9090` (Prometheus) and `3000` (Grafana).
 - Ensure that the services you're monitoring (MySQL, MongoDB, NGINX, Node.js) are running and accessible from the server where Prometheus is running.
 - For each exporter, adjust the script settings (e.g., MySQL credentials, MongoDB authentication) according to your environment.
-
+---
+This project is part of [Janis Adhikari's](https://roadmap.sh/projects/monitoring)  DevOps projects.
